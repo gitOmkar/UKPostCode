@@ -1,0 +1,9 @@
+C:\Projects\UKPostCode\UKPostCodeTest\UKPostCodeTest\bin\Debug\UKPostCodeTest.dll
+C:\Projects\UKPostCode\UKPostCodeTest\UKPostCodeTest\bin\Debug\UKPostCodeTest.pdb
+C:\Projects\UKPostCode\UKPostCodeTest\UKPostCodeTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\UKPostCode\UKPostCodeTest\UKPostCodeTest\bin\Debug\UKPostCode.exe
+C:\Projects\UKPostCode\UKPostCodeTest\UKPostCodeTest\bin\Debug\UKPostCode.pdb
+C:\Projects\UKPostCode\UKPostCodeTest\UKPostCodeTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Projects\UKPostCode\UKPostCodeTest\UKPostCodeTest\obj\Debug\UKPostCodeTest.csprojResolveAssemblyReference.cache
+C:\Projects\UKPostCode\UKPostCodeTest\UKPostCodeTest\obj\Debug\UKPostCodeTest.dll
+C:\Projects\UKPostCode\UKPostCodeTest\UKPostCodeTest\obj\Debug\UKPostCodeTest.pdb
