@@ -1,7 +1,9 @@
 Solution: UKPostCode
 
 Download the solution on your local machine.
-1) Run the Console application folder Debug folder-->UKPostCode.exe
+1) Delete the generated files #failed_validation.csv and #succeeded_validation.csv in Resources folder.
+1) Run the Console application folder Debug folder-->UKPostCode.exe, check generated files #failed_validation.csv and     
+   #succeeded_validation.csv in Resources folder.
 2) Run the unit test project in folder Debug--->UKPostCodeTest.dll
 
 
