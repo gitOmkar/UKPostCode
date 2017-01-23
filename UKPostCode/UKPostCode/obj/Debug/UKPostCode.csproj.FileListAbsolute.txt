@@ -1,5 +1,0 @@
-C:\Projects\UKPostCode\UKPostCode\UKPostCode\bin\Debug\UKPostCode.exe.config
-C:\Projects\UKPostCode\UKPostCode\UKPostCode\bin\Debug\UKPostCode.exe
-C:\Projects\UKPostCode\UKPostCode\UKPostCode\bin\Debug\UKPostCode.pdb
-C:\Projects\UKPostCode\UKPostCode\UKPostCode\obj\Debug\UKPostCode.exe
-C:\Projects\UKPostCode\UKPostCode\UKPostCode\obj\Debug\UKPostCode.pdb
