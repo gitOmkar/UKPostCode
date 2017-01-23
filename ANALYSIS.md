@@ -4,7 +4,7 @@ Project: UKPostCode, UKPostCodeTest
 Note1: Regular Expression supplied does not validate all the post codes cases.
 For Example: 
 
-*Input data in small letters are ot validated correctly.
+*Input data in small letters are not validated correctly.
 
 *Input data that has random beginning and end and only contains valid post code as a substring, are not validated correctly.
 
@@ -16,4 +16,4 @@ Note2: Performance: Given regular expressions does not include Anchors (start an
        When start and beginning anchors (^,$) are introduced in regular expression, postcode validation can be correctly realized. 
        But the performance of validation check depends on input data. Non-Matching cases are better in performance by around 100% when 
        anchors are used. Matching cases validation is faster when no anchors are used. This  performance can be mesaured using diagnostic 
-       timer in the code. However, since input_data supplied contains far more matching cases perfromance is better by 75% if no anchors are used.
+       timer in the code. However, since input_data supplied contains far more matching cases perfromance is better by 75% if no anchors          are used.
