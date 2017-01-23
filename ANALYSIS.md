@@ -3,9 +3,9 @@ Project: UKPostCode, UKPostCodeTest
 
 Note1: Regular Expression supplied does not validate all the post codes cases.
 For Example: 
-#Input data in small letters are ot validated correctly.
-#Input data that has random beginning and end and only contains valid post code as a substring, are not validated correctly.
-#Areas with a district '0' (zero): BL, BS, CM, CR, FY, HA, PR, SL, SS (BS is the only area to have both a district 0 and a district 10). are not validated.
+*Input data in small letters are ot validated correctly.
+*Input data that has random beginning and end and only contains valid post code as a substring, are not validated correctly.
+*Areas with a district '0' (zero): BL, BS, CM, CR, FY, HA, PR, SL, SS (BS is the only area to have both a district 0 and a district 10). are not validated.
 
 Note: I have included the correct regular expression which validates the beginging and end of the input string also but have commented this out in order to stick to give regular expression.
 
